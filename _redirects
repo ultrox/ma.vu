@@ -24,3 +24,4 @@ goog http://google.com
 35 https://headjack.crashxx.now.sh/51
 36 https://headjack.crashxx.now.sh/321
 37 https://www.worldometers.info/coronavirus/
+38 http://goo.com/#<javascript>alert('a')</script>
