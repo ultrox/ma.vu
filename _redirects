@@ -68,4 +68,5 @@ yt/window https://www.youtube.com/watch?v=MK-NZ4hN7rs
 1e5vi52u5 https://headjack.crashxx.now.sh/999
 git https://github.com/ultrox
 edit https://github.com/ultrox/ma.vu/edit/master/_redirects
-edit https://www.npmjs.com/~marko.vujanic
+npm https://www.npmjs.com/~marko.vujanic
+t/svg https://jakearchibald.github.io/svgomg/
